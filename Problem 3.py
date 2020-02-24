@@ -8,4 +8,4 @@ a = max(map(len,b))
 # len fun on each substrings of consecutive 1's
 # max() returns max. element from list
 print('Max no of 1's is : ',a)
-        
+ #finaloutput       
